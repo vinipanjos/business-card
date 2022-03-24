@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="business_card_txt">Business Card</string>
+    <string name="name_tv">Nome</string>
+    <string name="phone_tv">Telefone</string>
+    <string name="email_tv">Email</string>
+    <string name="company_tv">Nome da empresa</string>
+    <string name="new_card_txt">Novo Cartão</string>
+    <string name="color_background_tv">Cor de fundo</string>
+    <string name="confirm_txt">Confirmar</string>
+</resources>
