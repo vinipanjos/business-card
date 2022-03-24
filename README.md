@@ -1,2 +1,9 @@
 # business-card
 Um aplicativo de apresentação de cartão de visitas
+
+1. Fontes de informação
+  - [Salvar dados em um banco de dados local usando o Room ](https://developer.android.com/training/data-storage/room?hl=pt-br#kts)
+  - [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+  - [Activity](https://developer.android.com/jetpack/androidx/releases/activity?hl=pt-br#groovy)
+  - [Github do Alex Felipe](https://github.com/alexfelipe/orgs-persistencia-room)
+  - [Criando um App de Cartão de Visitas em Kotlin](https://drive.google.com/file/d/1PfB2Tsk04sLxWi3MOMErqzWoqCVBkRs1/view)
