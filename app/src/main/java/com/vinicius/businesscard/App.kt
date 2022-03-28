@@ -1,4 +1,4 @@
-package com.vinicius.businesscard.util
+package com.vinicius.businesscard
 
 import android.app.Application
 import com.vinicius.businesscard.data.AppDatabase

@@ -9,4 +9,6 @@
     <string name="new_card_txt">Novo Cartão</string>
     <string name="color_background_tv">Cor de fundo</string>
     <string name="confirm_txt">Confirmar</string>
+    <string name="show_sucess_message">Cartão de visita adicionado com sucesso !</string>
+    <string name="share_txt">Compartilhar</string>
 </resources>

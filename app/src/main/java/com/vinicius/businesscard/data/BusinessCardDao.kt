@@ -7,6 +7,7 @@ import androidx.room.OnConflictStrategy
 import androidx.room.Query
 
 //SEGUNDO PASSO PARA A IMPLEMENTAÇÃO DO ROOM
+
 @Dao
 interface BusinessCardDao {
 
