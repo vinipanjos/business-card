@@ -1,5 +1,5 @@
 # business-card
-Um aplicativo de apresentação de cartão de visitas
+Um aplicativo de apresentação de cartão de visitas com banco de dados local (Room)
 
 1. Fontes de informação
   - [Salvar dados em um banco de dados local usando o Room ](https://developer.android.com/training/data-storage/room?hl=pt-br#kts)
